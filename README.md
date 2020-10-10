@@ -1,2 +1,3 @@
-# completehactoberin10min
-This repo is for anyone who wants to complete hactober in less than 10 min.
+Submit Your Pull Request to complete HACKTOBER 2020 Challenge
+
+Forked from https://github.com/Darkknight698/completehactoberin10min
